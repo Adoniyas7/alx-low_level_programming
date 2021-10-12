@@ -18,4 +18,3 @@ nnodes++;
 }
 return (nnodes);
 }
-
